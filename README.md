@@ -1,7 +1,7 @@
-Typescript NestJS Route Demo
+Typescript NestJS Route Get Url Params Demo
 ======================
 
-在Controller和Method上声明式定义route，挺方便的
+使用 `@Param('someName')` 注解
 
 ```
 npm i

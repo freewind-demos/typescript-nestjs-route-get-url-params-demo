@@ -1,9 +1,7 @@
-Typescript NestJS Demo
+Typescript NestJS Route Demo
 ======================
 
-Say hello
-
-`nest-cli.json`是用来每次启动时，自动删除dist，否则还会用旧文件。
+在Controller和Method上声明式定义route，挺方便的
 
 ```
 npm i
